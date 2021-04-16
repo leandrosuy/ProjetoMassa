@@ -16,7 +16,6 @@ A aplicação consiste em uma pesquisa de preferência de vagas, onde os dados s
 
 ## Front end
 - HTML / CSS
-- 
 
 # Autor
 
